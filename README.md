@@ -1,0 +1,2 @@
+# minion-labour-shifts
+This contains a function called answer(data, n) that takes a list of less than 100 integers and a number n, and returns that same list but with all the numbers that occur more than n times removed entirely. The returned list should return the same ordering as the original list. For instance, if data was [5, 10, 15, 10, 7] and n was 1, answer(data, n) should return the list [5, 15, 7] because 10 occurs twice, and thus was removed from the list entirely.
